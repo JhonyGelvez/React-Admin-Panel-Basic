@@ -2,7 +2,7 @@
 
 This project is a simple and clean **React Admin Panel** designed to demonstrate component organization, form handling, and minimal dashboard UI suitable for internal tools.
 
-## ✅ Features
+## Features
 - Add questions dynamically  
 - Clean and readable UI  
 - No animations or shadows  
@@ -14,13 +14,13 @@ This project is a simple and clean **React Admin Panel** designed to demonstrate
 - JavaScript (ES6)  
 - HTML5 / CSS3  
 
-## 🚀 How to Run
+## How to Run
 ```bash
 npm install
 npm start
 ```
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 src/
 │── components/
@@ -30,5 +30,5 @@ src/
 │── index.js
 ```
 
-## 🎯 Purpose
+## Purpose
 This project shows skills in admin panels, UI structure, and clean coding.

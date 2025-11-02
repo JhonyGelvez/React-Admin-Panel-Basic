@@ -9,7 +9,7 @@ This project is a simple and clean **React Admin Panel** designed to demonstrate
 - Component-based architecture  
 - React Hooks for state management  
 
-## 🛠 Tech Stack
+## Tech Stack
 - React  
 - JavaScript (ES6)  
 - HTML5 / CSS3  

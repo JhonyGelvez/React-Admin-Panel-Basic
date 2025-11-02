@@ -1,0 +1,1 @@
+export default function QuestionsList({questions}){return <ul>{questions.map((q,i)=><li key={i}>{q}</li>)}</ul>}
